@@ -1,0 +1,90 @@
+@media (max-width: 1200px){
+    .menu{
+        padding: 9px 25px;
+    }
+    .menu_item {
+		padding-right: 15px !important;
+	}
+    .menu_item_api{
+        font-size: 12px;
+    }
+    .uber_logo{
+        width: 200px;
+        height: 25px;
+    }
+    .rounded-circle{
+        width: 100px;
+        height: 100px;
+    }
+    .reasons_circle_img{
+        max-height: 55px;
+    }
+    .reasons_circle_img2{
+        max-width: 70px;
+    }
+    .promo{
+        height: 700px;
+
+        h1{
+            font-size: 50px;
+            padding-top: 45px;
+        }
+        h2{
+            font-size: 28px;
+        }
+        .promo_btn{
+            margin-top: 90px;
+            width: 210px;
+            height: 58px;
+            font-size: 15px;
+        }
+        .promo_desrc{
+            font-size: 15px;
+        }
+    }
+    .mobile_apps{
+        width: 230px;
+        height: 21px;
+    }
+    .subheader_phone2{
+        display: none;
+    }
+}
+@media (max-width: 991px){
+    .menu{
+        padding: 9px 25px;
+    }
+    .lg-hidden{
+        display: none;
+    }
+    .subheader_btn{
+        margin-top: 3px !important;
+    }
+    .reasons{
+
+        h2{
+            font-size: 33px;
+            margin-top: 30px;
+        }
+        .rounded-circle{
+            height: 70px;
+            width: 70px;
+        }
+        .reasons_circle_img{
+            max-height: 45px;
+        }
+        .reasons_circle_img2{
+            max-width: 60px;
+        }
+        p{
+            width: 260px;
+        }
+    }
+
+}
+@media (max-width: 768px){
+    .md-hidden{
+        display: none;
+    }
+
+}
